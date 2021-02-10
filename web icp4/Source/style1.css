@@ -1,0 +1,30 @@
+body {
+    margin: 2%;
+    border: 1px solid black;
+    background-color: hotpink;
+}
+
+#image {
+    line-height: 450px;
+    width: 575px;
+    height: 450px;
+    border: 5px blueviolet;
+    background-color: deeppink;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color: #ffff00;
+    text-align: center;
+    background-size: 100%;
+    margin: 0 auto 25px;
+    font-size: 250%;
+}
+
+.preview {
+    width: 10%;
+    margin-left: 17%;
+    border: 10px saddlebrown;
+}
+
+img {
+    width: 95%;
+}
