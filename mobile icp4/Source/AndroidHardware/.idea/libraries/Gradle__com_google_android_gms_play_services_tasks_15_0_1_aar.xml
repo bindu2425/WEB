@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:15.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b465ec8e8f7d1b5b99a35e5dea96a61/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b465ec8e8f7d1b5b99a35e5dea96a61/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5de706a3d6c1cd1436217b1a0aee5d4d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5de706a3d6c1cd1436217b1a0aee5d4d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/5de706a3d6c1cd1436217b1a0aee5d4d/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/dbdc3a7e19d9f6c83f2c40aa7d69afd4/res" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/388d13f6dfb73747d9c51825aa23d4b4/play-services-tasks-15.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/388d13f6dfb73747d9c51825aa23d4b4/play-services-tasks-15.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/388d13f6dfb73747d9c51825aa23d4b4/play-services-tasks-15.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

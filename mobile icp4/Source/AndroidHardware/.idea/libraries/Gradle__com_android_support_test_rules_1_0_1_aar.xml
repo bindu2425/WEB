@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test:rules:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/e85b851e8e275305330df59eef9dc82d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/e85b851e8e275305330df59eef9dc82d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/10aadd72006e59dfefd48a3af3dfc8c0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/10aadd72006e59dfefd48a3af3dfc8c0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/10aadd72006e59dfefd48a3af3dfc8c0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/38df5aed1c2628c7b2f9dba773dd23fa/res" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/7969301d0d9cfa3bd123ce685ef7a918db9eaa4d/rules-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/8d0aaa918b00c7ef6487610c9175276de6df953e/rules-1.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Mobile ICP-1/ICP/gradle/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/8d0aaa918b00c7ef6487610c9175276de6df953e/rules-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
